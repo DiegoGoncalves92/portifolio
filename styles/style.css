@@ -15,7 +15,8 @@
     padding: 0;
 }
 body {
-    box-sizing: border-box;
+   
+     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
 }
@@ -137,13 +138,13 @@ body {
         justify-content: center;
     }
     
-    .cabecalho__menu__link{
+    .cabecalho__menu{
         justify-content: center;
     }
     
     .apresentacao{
         flex-direction: column-reverse;
-        background-color: #000000;
+        background-color: #25444b;
         padding: 5%;
     }
 
