@@ -137,13 +137,13 @@ body {
         justify-content: center;
     }
     
-    .cabecalho__menu{
+    .cabecalho__menu__link{
         justify-content: center;
     }
     
     .apresentacao{
         flex-direction: column-reverse;
-        background-color: #25444b;
+        background-color: #000000;
         padding: 5%;
     }
 
